@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Updated
+- I18n: Update translation files and delete unwanted files
+
 ## [2.60.0] - 2021-06-29
 
 ## [2.60.0] - 2021-06-29
