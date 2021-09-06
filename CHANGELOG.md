@@ -7,8 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-### Updated
-- I18n: sl and hu translation files
+### Added
+- I18n Sl and Hu.
+
+### Fixed
+- Crowdin configuration file
 
 ## [2.60.0] - 2021-06-29
 
