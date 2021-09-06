@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 
 ### Added
-- I18n hu.json
+- I18n Hu
 
 ### Fixed
 - Crowdin configuration file
